@@ -30,7 +30,7 @@ sweep the servo from 0 to 360 degrees
   tell servo to go to position in variable 'pos'
     `servo_9.write(pos);`
     
-    \
+    
   wait 0 ms for servo to reach the position
   
   ```
