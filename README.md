@@ -3,7 +3,7 @@
 **C++ code by Arduino IDE 
 
 The library for servo motor 
-*include <Servo.h>
+include <Servo.h>
 
 Defining a variable with a value of zero to use in a for loop
 *int pos = 0;
